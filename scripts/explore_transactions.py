@@ -1,0 +1,14 @@
+import pandas as pd
+
+df = pd.read_csv("data/raw/08_investor_transactions.csv")
+
+print(df.head())
+
+print("\nColumns:")
+print(df.columns)
+
+print("\nData Types:")
+print(df.dtypes)
+
+print("\nShape:")
+print(df.shape)

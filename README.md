@@ -302,16 +302,6 @@ python scripts/generate_dashboard.py
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| **Ragdeep Singh** | ETL Pipeline & Database Design |
-| **Ramakrishna** | EDA & Statistical Analysis |
-| **Geetha** | Performance Metrics & Benchmarking |
-| **RD Soberoi** | Dashboard Development |
-| **Rizwan Shaik** | Report Writing & Presentation |
-
 **Mentor:** Bluestock Fintech · Data Analytics Division
 **Duration:** 7-Day Intensive Capstone · June 2026
 
